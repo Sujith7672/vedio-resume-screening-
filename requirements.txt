@@ -1,0 +1,12 @@
+openai-whisper
+moviepy
+opencv-python
+spacy
+nltk
+sentence-transformers
+pandas
+numpy
+matplotlib
+scikit-learn
+tqdm
+streamlit
